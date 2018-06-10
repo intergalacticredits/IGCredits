@@ -7,7 +7,7 @@
 
 > What is an InterGalactic Credit or (CREE)?  
 Main Features: Run on the ethereum blockchain  
-High supply of Tokens 7,000,000,000,000 (7000000000000 Tokens created so far) Used as multi-purposes mediation instrument to interact with other decentralized interPlanetary Nodes.  
+High supply of Credits 7,000,000,000,000 (7000000000000 Tokens created so far) Used as multi-purposes mediation instrument to interact with other decentralized interPlanetary Nodes.  
 Note:
 
 ## Table of Contents
