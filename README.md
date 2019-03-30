@@ -20,5 +20,7 @@
 - [License](#license)
 
 ## white-paper
-InterGalactic Credits whitepaper
+[InterGalactic Credits whitepaper](https://github.com/intergalacticredits/IGCredits/tree/master/whitepaper)
+      
+
 
