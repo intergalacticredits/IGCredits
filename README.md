@@ -3,8 +3,6 @@
 # InterGalactic Credits Project
 [![Gitter](https://badges.gitter.im/intergalacticcredits/community.svg)](https://gitter.im/intergalacticcredits/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-[![Join the Gitchat at https://gitter.im/TokenIndustrialAverage/Lobby](https://badges.gitter.im/TokenIndustrialAverage/Lobby.svg)](https://gitter.im/TokenIndustrialAverage/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 
 > What is an InterGalactic Credit or (CREE)?  
 - Mainnet : [0x76ace4e080c49f04a6c12756c036d3627f6b1e69](https://etherscan.io/address/0x76ace4e080c49f04a6c12756c036d3627f6b1e69)
