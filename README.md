@@ -13,13 +13,13 @@
 - Note:
 
 ## Table of Contents
-- [WhitePaper](#white-paper)
+- [WhitePaper](#White-Paper)
 - [Usage](#usage)
 - [Wiki](#wiki)
 - [Contribute](#contribute)
 - [License](#license)
 
-## white-paper
+## White-Paper
 [InterGalactic Credits whitepaper](https://github.com/intergalacticredits/IGCredits/tree/master/whitepaper)
       
 
